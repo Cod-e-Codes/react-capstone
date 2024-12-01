@@ -21,4 +21,3 @@ This project is the capstone project for the Front-End Developer course, where I
 - **CSS**: Used for styling the application and making it responsive.
 - **Figma**: Used for designing wireframes and prototypes.
 - **GitHub**: Version control and code repository.
-- **Email Sending Service**: (e.g., EmailJS) to handle sending confirmation emails.
